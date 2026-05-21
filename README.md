@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/immortal-soul/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Immortal Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/immortal-soul/) |
+| **Get License** | [Official Music Licensing for Immortal Soul](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/immortal-soul/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Akhiyan de vich teri tasveer main rakhda haan, falling so deep.
+> Tere nakhre main has ke jarda haan sohniye, losing my sleep.
+> Saari raat main tera takda haan raah billo, next to me.
+> Tere utte mar mitda haan main sachhi, wild energy.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
