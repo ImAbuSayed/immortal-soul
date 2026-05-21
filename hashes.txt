@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Immortal Soul
+
+This log tracks the cryptographic history and versioning for the song **Immortal Soul** (immortal-soul).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T03:05:15.456084 | `v1` | `0177b714eaf406c584b001fba495ab49bddb9f928dccb8a606d9fa53e2a88382` | `094fa7211d5b91dbbd734b8fdcbd3687fbb6b0710cb1c6135ecc49755023643e` | `2026-05-22_immortal-soul-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
